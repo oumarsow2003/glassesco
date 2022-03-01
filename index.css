@@ -237,7 +237,7 @@ header nav ul li ul  a {
 .all-product nav ul{
     display: flex;
     
-    width:420px;
+    width:430px;
     margin:0 auto;
     justify-content: space-between;
 }
